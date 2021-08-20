@@ -71,12 +71,12 @@ body {
 
 .card .content .plan-box {
     display: flex;
-    padding: 15px 30px;
+    padding: 15px 10px;
     width: 100%;
     background-color: hsl(225, 100%, 98%);
     border-radius: 10px;
     gap: 2rem;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-content: center;
     align-items: center;
     
@@ -86,11 +86,6 @@ body {
     font-size: 1rem;
 }
 
-.card .content .plan-box span {
-    
-
-
-}
 
 .card .content .plan-box a {
     align-content: center;
